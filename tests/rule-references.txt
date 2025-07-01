@@ -4029,3 +4029,17 @@ https://strontic.github.io/xcyclopedia/library/aclui.dll-F883E9CA757B622B032FDCA
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-4706
 https://devco.re/blog/2024/08/23/streaming-vulnerabilities-from-windows-kernel-proxying-to-kernel-part1-en/
 https://web.archive.org/web/20220519091349/https://fatrodzianko.com/2020/02/15/dll-side-loading-appverif-exe/
+https://www.trendmicro.com/en_us/research/25/c/windows-shortcut-zero-day-exploit.html
+https://github.com/rapid7/metasploit-framework/issues/11337
+https://learn.microsoft.com/en-us/entra/id-protection/concept-identity-protection-risks#malware-linked-ip-address-deprecated
+https://app.any.run/tasks/1efb3ed4-cc0f-4690-a0ed-24516809bc72/
+https://www.huntress.com/blog/fake-browser-updates-lead-to-boinc-volunteer-computing-software
+https://learn.microsoft.com/en-us/entra/architecture/security-operations-applications#service-principal-assigned-to-a-role
+https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-4732
+https://blog.morphisec.com/vmware-identity-manager-attack-backdoor
+https://github.com/joaoviictorti/RustRedOps/tree/ce04369a246006d399e8c61d9fe0e6b34f988a49/Self_Deletion
+https://dear-territory-023.notion.site/WebDav-Share-Testing-e4950fa0c00149c3aa430d779b9b1d0f?pvs=4
+https://learn.microsoft.com/en-us/mem/intune/apps/intune-management-extension
+https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/wbadmin-delete-systemstatebackup
+https://docs.oracle.com/cd/E19683-01/816-4883/6mb2joatd/index.html
+https://web.archive.org/web/20230217071802/https://blooteem.com/march-2022
