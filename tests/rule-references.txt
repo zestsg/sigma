@@ -873,6 +873,7 @@ https://github.com/cloudflare/cloudflared
 https://github.com/cloudflare/cloudflared/releases
 https://github.com/codewhitesec/HandleKatz
 https://github.com/codewhitesec/SysmonEnte/
+https://github.com/codewhitesec/SysmonEnte/blob/fe267690fcc799fbda15398243615a30451d9099/screens/1.png
 https://github.com/codewhitesec/SysmonEnte/blob/main/screens/1.png
 https://github.com/connormcgarr/LittleCorporal
 https://github.com/corelight/CVE-2021-1675
@@ -1707,6 +1708,7 @@ https://gtfobins.github.io/gtfobins/c99/#shell
 https://gtfobins.github.io/gtfobins/env/#shell
 https://gtfobins.github.io/gtfobins/find/#shell
 https://gtfobins.github.io/gtfobins/flock/#shell
+https://gtfobins.github.io/gtfobins/gcc/#shell
 https://gtfobins.github.io/gtfobins/git/#shell
 https://gtfobins.github.io/gtfobins/mawk/#shell
 https://gtfobins.github.io/gtfobins/nawk/#shell
@@ -1824,6 +1826,7 @@ https://labs.withsecure.com/publications/kapeka
 https://ladydebug.com/blog/2019/06/21/custom-protocol-handler-cph/
 https://learn.microsoft.com/de-de/microsoft-365/enterprise/urls-and-ip-address-ranges?view=o365-worldwide
 https://learn.microsoft.com/de-de/powershell/module/microsoft.powershell.security/set-executionpolicy?view=powershell-7.3
+https://learn.microsoft.com/de-de/sysinternals/downloads/adexplorer
 https://learn.microsoft.com/en-gb/entra/architecture/security-operations-privileged-accounts
 https://learn.microsoft.com/en-gb/entra/architecture/security-operations-user-accounts
 https://learn.microsoft.com/en-gb/entra/architecture/security-operations-user-accounts#monitoring-external-user-sign-ins
@@ -1918,6 +1921,7 @@ https://learn.microsoft.com/en-us/entra/id-protection/concept-identity-protectio
 https://learn.microsoft.com/en-us/entra/id-protection/concept-identity-protection-risks#leaked-credentials
 https://learn.microsoft.com/en-us/entra/id-protection/concept-identity-protection-risks#malicious-ip-address
 https://learn.microsoft.com/en-us/entra/id-protection/concept-identity-protection-risks#malware-linked-ip-address-deprecated
+https://learn.microsoft.com/en-us/entra/id-protection/concept-identity-protection-risks#new-country
 https://learn.microsoft.com/en-us/entra/id-protection/concept-identity-protection-risks#possible-attempt-to-access-primary-refresh-token-prt
 https://learn.microsoft.com/en-us/entra/id-protection/concept-identity-protection-risks#suspicious-browser
 https://learn.microsoft.com/en-us/entra/id-protection/concept-identity-protection-risks#suspicious-inbox-forwarding
@@ -2447,6 +2451,7 @@ https://old.zeek.org/zeekweek2019/slides/bzar.pdf
 https://onedrive.live.com/view.aspx?resid=D026B4699190F1E6!2843&ithint=file%2cpptx&app=PowerPoint&authkey=!AMvCRTKB_V1J5ow
 https://opencanary.readthedocs.io/en/latest/starting/configuration.html#services-configuration
 https://outflank.nl/blog/2018/01/16/hunting-for-evil-detect-macros-being-executed/
+https://outpost24.com/blog/crushftp-auth-bypass-vulnerability/
 https://owasp.org/www-community/vulnerabilities/Expression_Language_Injection
 https://owasp.org/www-community/vulnerabilities/XML_External_Entity_(XXE)_Processing
 https://owasp.org/www-pdf-archive/Shellshock_-_Tudor_Enache.pdf
@@ -3404,6 +3409,7 @@ https://web.archive.org/web/20230329172447/https://blog.menasec.net/2019/02/thre
 https://web.archive.org/web/20230409194125/https://blog.menasec.net/2019/03/threat-hunting-25-scheduled-tasks-for.html
 https://web.archive.org/web/20230420013146/http://security-research.dyndns.org/pub/slides/FIRST2017/FIRST-2017_Tom-Ueltschi_Sysmon_FINAL_notes.pdf
 https://web.archive.org/web/20230726144748/https://blog.thickmints.dev/mintsights/detecting-rogue-rdp/
+https://web.archive.org/web/20231015205935/https://githubmemory.com/repo/FunctFan/JNDIExploit
 https://web.archive.org/web/20231221193106/https://www.swascan.com/cactus-ransomware-malware-analysis/
 https://web.archive.org/web/20231230220738/https://www.lunasec.io/docs/blog/log4j-zero-day/
 https://wikileaks.org/vault7/#Pandemic
@@ -3647,6 +3653,7 @@ https://www.hackingtutorials.org/networking/hacking-netcat-part-2-bind-reverse-s
 https://www.helpnetsecurity.com/2023/08/02/aws-instances-attackers-access/
 https://www.hhs.gov/sites/default/files/manage-engine-vulnerability-sector-alert-tlpclear.pdf
 https://www.horizon3.ai/manageengine-cve-2022-47966-technical-deep-dive/
+https://www.howtogeek.com/137270/50-file-extensions-that-are-potentially-dangerous-on-windows
 https://www.huntandhackett.com/blog/revil-the-usage-of-legitimate-remote-admin-tooling
 https://www.huntress.com/blog/3cx-voip-software-compromise-supply-chain-threats
 https://www.huntress.com/blog/a-catastrophe-for-control-understanding-the-screenconnect-authentication-bypass
@@ -3654,6 +3661,7 @@ https://www.huntress.com/blog/attacking-mssql-servers
 https://www.huntress.com/blog/confluence-to-cerber-exploitation-of-cve-2023-22518-for-ransomware-deployment
 https://www.huntress.com/blog/critical-vulnerabilities-in-papercut-print-management-software
 https://www.huntress.com/blog/moveit-transfer-critical-vulnerability-rapid-response
+https://www.huntress.com/blog/silencing-the-edr-silencers
 https://www.huntress.com/blog/slashandgrab-screen-connect-post-exploitation-in-the-wild-cve-2024-1709-cve-2024-1708
 https://www.huntress.com/blog/threat-advisory-oh-no-cleo-cleo-software-actively-being-exploited-in-the-wild
 https://www.hvs-consulting.de/lazarus-report/
@@ -3894,6 +3902,7 @@ https://www.remoteutilities.com/support/kb/host-service-won-t-start/
 https://www.revshells.com/
 https://www.rnbo.gov.ua/files/2023_YEAR/CYBERCENTER/november/APT29%20attacks%20Embassies%20using%20CVE-2023-38831%20-%20report%20en.pdf
 https://www.roboform.com/
+https://www.safetycli.com/blog/shai-hulud-npm-attack-runs-malicious-github-action
 https://www.sandflysecurity.com/blog/bpfdoor-an-evasive-linux-backdoor-technical-analysis/
 https://www.sans.edu/cyber-research/from-crash-compromise-unlocking-potential-windows-crash-dumps-offensive-security/
 https://www.sans.org/blog/defending-against-scattered-spider-and-the-com-with-cybercrime-intelligence/
@@ -3953,6 +3962,7 @@ https://www.sygnia.co/golden-saml-advisory
 https://www.symantec.com/blogs/threat-intelligence/thrip-hits-satellite-telecoms-defense-targets
 https://www.symantec.com/connect/blogs/shady-tld-research-gdn-and-our-2016-wrap
 https://www.synacktiv.com/en/publications/how-to-exploit-cve-2021-40539-on-manageengine-adselfservice-plus.html
+https://www.synacktiv.com/publications/ntlm-reflection-is-dead-long-live-ntlm-reflection-an-in-depth-analysis-of-cve-2025
 https://www.sysaid.com/blog/service-desk/on-premise-software-security-vulnerability-notification
 https://www.tanium.com/blog/apt41-deploys-google-gc2-for-attacks-cyber-threat-intelligence-roundup/
 https://www.tarasco.org/security/pwdump_7/
@@ -3971,6 +3981,7 @@ https://www.thestack.technology/security-experts-call-for-incident-response-exer
 https://www.trellix.com/en-sg/about/newsroom/stories/threat-labs/lockergoga-ransomware-family-used-in-targeted-attacks.html
 https://www.trellix.com/en-us/about/newsroom/stories/research/beyond-file-search-a-novel-method.html
 https://www.trendmicro.com/content/dam/trendmicro/global/en/research/22/h/ransomware-actor-abuses-genshin-impact-anti-cheat-driver-to-kill-antivirus/Genshin%20Impact%20Figure%2010.jpg
+https://www.trendmicro.com/content/dam/trendmicro/global/en/research/24/b/lockbit-attempts-to-stay-afloat-with-a-new-version/technical-appendix-lockbit-ng-dev-analysis.pdf
 https://www.trendmicro.com/en_id/research/22/e/uncovering-a-kingminer-botnet-attack-using-trend-micro-managed-x.html
 https://www.trendmicro.com/en_no/research/24/b/cve202421412-water-hydra-targets-traders-with-windows-defender-s.html
 https://www.trendmicro.com/en_ph/research/20/k/new-macos-backdoor-connected-to-oceanlotus-surfaces.html
@@ -4196,6 +4207,7 @@ https://www.zscaler.com/blogs/security-research/unintentional-leak-glimpse-attac
 https://x.com/_st0pp3r_/status/1742203752361128162?s=20
 https://x.com/cyb3rops/status/1862406110365245506
 https://x.com/russianpanda9xx/status/1940831134759506029
+https://x.com/wietze/status/1958302556033065292?s=12
 https://x.com/yarden_shafir/status/1822667605175324787
 https://xmrig.com/docs/miner/command-line-options
 https://xz.aliyun.com/t/12175
